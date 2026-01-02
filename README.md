@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm ToeOoWaiYanJp 👋
 
-<!--
-**ToeOoWaiYanJp/ToeOoWaiYanJp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Full-stack developer
+- ⚡ I love Vite, React, and Tailwind
+- 🌱 Learning AI and DevOps
+- 📫 Reach me at: toeoowaiyan@example.com
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** JavaScript, TypeScript, Python  
+- **Frameworks:** React, Vite, Node.js  
+- **Tools:** Git, GitHub, Tailwind, VSCode  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![ToeOoWaiYanJp's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToeOoWaiYanJp&show_icons=true&theme=radical)
