@@ -1,15 +1,12 @@
-# Hi, I'm ToeOoWaiYanJp 👋
+# Hi, I'm ToeOoWaiYan 👋
 
 ## About Me
 - 💻 Full-stack developer
 - ⚡ I love Vite, React, and Tailwind
 - 🌱 Learning AI and DevOps
-- 📫 Reach me at: toeoowaiyan@example.com
+- 📫 Reach me at: toeoowaiyanjp@gmail.com
 
 ## Skills
 - **Languages:** JavaScript, TypeScript, Python  
 - **Frameworks:** React, Vite, Node.js  
 - **Tools:** Git, GitHub, Tailwind, VSCode  
-
-## GitHub Stats
-![ToeOoWaiYanJp's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToeOoWaiYanJp&show_icons=true&theme=radical)
